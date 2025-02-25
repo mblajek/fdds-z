@@ -1,4 +1,4 @@
-## $t(app_name) $t(app_version.v)0.ver {#v0.ver}
+## $t(app_name) v0.ver {#v0.ver}
 
 Data wydania: **data**
 

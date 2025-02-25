@@ -1,4 +1,4 @@
-## $t(app_name) $t(app_version.v)0.18 {#v0.18}
+## $t(app_name) v0.18 {#v0.18}
 
 Data wydania: **24 lutego 2025**
 
